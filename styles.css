@@ -1,0 +1,26 @@
+body {
+    background-color: #b2f2bb;
+    font-family: Arial, sans-serif;
+    color: #003300;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #006644;
+}
+
+a {
+    color: #004d40;
+    font-weight: bold;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+img {
+    display: block;
+    margin: 10px 0;
+    max-width: 100%;
+    height: auto;
+}
